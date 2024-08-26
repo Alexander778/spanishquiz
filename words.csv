@@ -1,0 +1,481 @@
+el movíl,мобільний телефон,noun
+el balkon,балкон,noun
+la calle,вулиця,noun
+tambíen,також(у позив),noun
+tampoco,також(у негав),noun
+utíl,потрібний/корисний,adj
+agradable,чудовий/гарний,adj
+el comedor,коридор,noun
+ruidoso,шумний,adj
+antiguo,старий,adj
+tranquilo,тихий/спокійний,adj
+moderno,сучасний,adj
+céntrico,центральний,adj
+residencial,житловий,adj
+chalé,будинок/вілла,noun
+el piso,поверх,noun
+luminoso,світлий/освітлений,adj
+el ascensor,ліфт,noun
+el garaje,гараж,noun
+el microondas,мікрохвильовка,noun
+la nevera,холодильник,noun
+el electrodoméstico,електротехніка,noun
+los muebles,меблі,noun
+la silla,стілець,noun
+el armario,шафа,noun
+el dormitorio,спальня,noun
+el baño,ванна кімната,noun
+el ordenador,комп'ютер,noun
+la nieve,сніг,noun
+el jardín,сад,noun
+el gris,сірий,adj
+el lila,фіолетовий,adj
+el morado,фіолетовий,adj
+el rosa,рожевий,adj
+el negro,чорний,adj
+el blanco,білий,adj
+el marrón,коричневий,adj
+el azul,блакитний,adj
+el verde,зелений,adj
+el naranja,оранжевий,adj
+el amarillo,жовтий,adj
+el rojo,червоний,adj
+para,для того щоб,conjunction
+la edad,вік,noun
+el enfermero,медбрат,noun
+la enfermera,медсестра,noun
+la camarera,офіціантка,noun
+el camarero,офіціант,noun
+la tienda,магазин,noun
+la pilota,пілотка,noun
+el piloto,пілот,noun
+la peluquera,перукарка,noun
+el peluquero,перукар,noun
+la panadera,пекарка,noun
+el panadero,пекарь,noun
+la médica,лікарка,noun
+el médico,лікар,noun
+la fontanera,сантехнічка,noun
+el fontanero,сантехнік,noun
+la escritora,письменниця,noun
+el escritor,письменник,noun
+la empresaria,підприємниця,noun
+el empresario,підприємець,noun
+la electricista,електричка,noun
+el electricista,електрик,noun
+la dependienta,продавець-консультантка,noun
+el dependiente,продавець-консультант,noun
+la dentista,стоматологиня,noun
+el dentista,стоматолог,noun
+la contable,бухгалтерка,noun
+el contable,бухгалтер,noun
+la cocinera,кухарка,noun
+el cocinero,кухар,noun
+la cajera,касирка,noun
+el cajero,касир,noun
+la bombera,пожежниця,noun
+el bombero,пожежник,noun
+la barrendera,двірничка,noun
+el barrendero,двірник,noun
+la abañil,каменярка/штукатурка,noun
+el abañil,каменяр/штукатур,noun
+la abogada,адвокатка,noun
+el abogado,адвокат,noun
+rico,багатий,adj
+corto,короткий,adj
+prepararse,готувати,verb
+la tarta,пиріг,noun
+pequeña,невеликий,adj
+grande,великий,adj
+la mano,рука,noun
+la casa,будинок,noun
+el caramelo,цуцерка,noun
+la manzana,яблуко,noun
+guapo,красивий,adj
+la mentirosa,брехуха,noun
+el mentiroso,брехун,noun
+la hermana,сестра,noun
+el hermano,брат,noun
+excelente,відмінний,adj
+maleducado,невихований,adj
+seductor,спокусливий,adj
+salvaje,дикий,adj
+el gato,кіт,noun
+la gente,людина,noun
+la ciudad,місто,noun
+el ojo,око,noun
+divertido,веселий,adj
+largo,довгий,adj
+el abrido,пальто,noun
+alto,високий,adj
+la montaña,гора,noun
+alegre,веселий,adj
+tonto,дурний,adj
+la pregunta,питання,noun
+feo,потворний,adj
+listo,готовий,adj
+joven,молодий,adj
+pobre,бідний,adj
+malo,поганий,adj
+bonito,красивий,adj
+trabajador,працьовитий,adj
+major,великий,adj
+encantador,чарівний,adj
+volador,літаючий,adj
+amable,добрий,adj
+holgazán,непрацючий,adj
+el rey,король,noun
+la reina,королева,noun
+el primo,двоюрідний брат,noun
+la prima,двоюрідна сестра,noun
+la tía,тітка,noun
+el tío,дядько,noun
+el chico,хлопчик,noun
+la chica,дівчинка,noun
+la testigo,свідок,noun
+el hombre,чоловік,noun
+la mujer,жінка,noun
+el perro,пес,noun
+el jefe,бос,noun
+el león,лев,noun
+la leóna,левиця,noun
+el cantante,співак,noun
+la cantante,співачка,noun
+la vaca,корова,noun
+el toro,бик,noun
+el buzón,поштова скринька,noun
+el corazón,серце,noun
+el pepino,огірок,noun
+¿Cuál es la nacionalidad de Lionel Messi?,Яка національність Ліонель Мессі?,phrase
+la zanahoria,морква,noun
+el cabacín,кабачок,noun
+la semana,тиждень,noun
+el diciembre,грудень,noun
+el noviembre,листопад,noun
+el octubre,жовтень,noun
+el septiembre,вересень,noun
+el agosto,серпень,noun
+el julio,липень,noun
+el junio,червень,noun
+el mayo,травень,noun
+el abril,квітень,noun
+el marzo,березень,noun
+el febrero,лютий,noun
+el enero,січень,noun
+el invierno,зима,noun
+el verano,літо,noun
+la primavera,весна,noun
+pasado mañana,післязавтра,adverb
+anteayer,позавчора,adverb
+ayer,вчора,adverb
+mañana,завтра,adverb
+hoy,сьогодні,adverb
+el domingo,неділя,noun
+el sábado,субота,noun
+el viernes,п'ятниця,noun
+el jueves,четверг,noun
+el miércoles,середа,noun
+el martes,вівторок,noun
+el lunes,понеділок,noun
+escribir,писати,verb
+beber,пити,verb
+vivir,жити,verb
+trabajar,працювати,verb
+llamarse,називатися,verb
+un million,1_000_000,numeral
+mil,1000,numeral
+novecientos,900,numeral
+ochocientos,800,numeral
+setecientos,700,numeral
+seiscientos,600,numeral
+quinientos,500,numeral
+cuatrocientos,400,numeral
+trescientos,300,numeral
+doscientos,200,numeral
+ciento,100,numeral
+noventa,90,numeral
+ochenta,80,numeral
+setenta,70,numeral
+sesenta,60,numeral
+cincuenta,50,numeral
+cuarenta,40,numeral
+treinta,30,numeral
+veinte,20,numeral
+veintiuno,21,numeral
+diecinueve,19,numeral
+dieciocho,18,numeral
+diecisiete,17,numeral
+dieciséis,16,numeral
+quince,15,numeral
+catorce,14,numeral
+trece,13,numeral
+doce,12,numeral
+once,11,numeral
+diez,10,numeral
+nueve,9,numeral
+ocho,8,numeral
+siete,7,numeral
+seis,6,numeral
+cinco,5,numeral
+cuatro,4,numeral
+tres,3,numeral
+dos,2,numeral
+uno,1,numeral
+Chao!,Бувай!,phrase
+Hasta mañana!,До завтра!,phrase
+Hasta luego!,До побачення!,phrase
+Adios!,Побачимось!,phrase
+cocinar,готувати,verb
+irde compras,ходити по магазинам,verb
+estudiar español,вивчати іспанську,verb
+ir al cine,ходити в кіно,verb
+leer libros,читати книги,verb
+ver peliculas,дивитися фільми,verb
+salir con amigos,зустрічатися з друзями,verb
+escuchar música,слухати музику,verb
+bailar,танцювати,verb
+viajar,подорожувати,verb
+Me gusta,Мені подобається,phrase
+¿Que te gusta hacer?,Чим ти любиш займатися у вільний час,phrase
+Estoy soltero,неодружений,phrase
+Estoy soltera,незаміжня,phrase
+Estoy casada,заміжня,phrase
+Estoy casado,одружений,phrase
+Ahora no trabajo,Зараз не працюю,phrase
+Trabajo por micuenta,Я працюю на себе,phrase
+¿Dónde trabajas?,Де ти працюєш?,phrase
+¿A que dedidas?,Яка твоя професія?,phrase
+¿Cuántos años tienes?,Скільки тобі років?,phrase
+¿Dónde vives?,Де ти живеш?,phrase
+¿Cómo te llamas?,Як тебе звати?,phrase
+¿De dónde eres?,Звідки ви?,phrase
+Buenas tardes,Доброго дня,phrase
+Buenas noches,Доброї вечора,phrase
+Buenos días,Доброго ранку (дня)!,phrase
+Hola!,привіт,phrase
+Muy bien,дуже добре,phrase
+Muy mal,дуже погано,phrase
+¿Que tal?,Як справи?,phrase
+el pasillo,коридор,noun
+el salón,вітальня,noun
+la habitación,кімната,noun
+la identidad,особистість,noun
+la cama,ліжко,noun
+la televisión,телевізор,noun
+el parque,парк,noun
+la mesa,стіл,noun
+el hijo,син,noun
+el barrio,район,noun
+el departamento,квартира,noun
+delicioso,смачний,adj
+la escuela,школа,noun
+la lección,урок,noun
+el árbol,дерево,noun
+serio,серйозний,adj
+la isla,острів,noun
+el tesoro,скарб,noun
+escondido,прихований,adj
+pero,але,conjunction
+el norte,північ,noun
+el sur,південь,noun
+el este,схід,noun
+el oeste,захід,noun
+pequeño,маленький,adj
+el poblado,село,noun
+el resto,решта,noun
+el loro,папуга,noun
+qúe,що,pronoun
+parece,здаватися,verb
+ninguno,ніхто,pronoun
+raro,рідкісний,adj
+normalmente,зазвичай,adverb
+el cielo,небо,noun
+creer,вірити,verb
+primero,перший,adj
+secundo,другий,adj
+tercero,третій,adj
+cuatro,четвертий,adj
+quinto,п'ятий,adj
+sexto,шостий,adj
+séptimo,сьомий,adj
+octavo,восьмий,adj
+noveno,дев'ятий,adj
+décimo,десятий,adj
+el mercado,ринок,noun
+además,крім того,conjunction
+el cerro,пагорб,noun
+el ruido,шум,noun
+el luz,світло,noun
+poco,мало,adj
+mucho,багато,adj
+allí,там далеко,adverb
+ahí,там не дуже далеко,adverb
+aquí,тут,adverb
+lejos,далеко,adverb
+cerca,поруч,adverb
+encima de,над,preposition
+debajo de,під,preposition
+bajo,під,preposition
+al lado de,поруч,preposition
+dentro de,всередині,preposition
+en,в,preposition
+a la izquierda de,ліворуч від,preposition
+entre,між,preposition
+a la derecha de,праворуч від,preposition
+delante de,перед,preposition
+detrás de,позаду,preposition
+aldedor de,навколо,preposition
+el párajo,птах,noun
+el paraguas,парасолька,noun
+el avión,літак,noun
+la nube,хмара,noun
+animado,жвавий,adj
+la cosa,річ,noun
+el colegio,школа(коледж),noun
+el sofá,диван,noun
+comodó,зручний,adj
+viejo,старий,adj
+nuevo,новий,adj
+sin,без,preposition
+oscuro,темний,adj
+con,з,preposition
+el barco,корабель,noun
+el tren,поїзд,noun
+el metro,метро,noun
+el autobús,автобус,noun
+la bicicleta,велосипед,noun
+el taxi,таксі,noun
+sol y playa,сонце і пляж,phrase
+la gastronomia,гастрономія,noun
+tranquilidad,спокій,adj
+el museó,музей,noun
+la iglesia,церква,noun
+el mirador,видовище,noun
+el supermercado,супермаркет,noun
+ir a la playa,поїхати на пляж,verb
+aunque,хоча,conjunction
+la parada,зупинка,noun
+puntual,пунктуальний,adj
+contaminante,забруднюючий,adj
+cansado,втомлений,adj
+peligroso,небезпечний,adj
+caro,дорогий,adj
+lento,повільний,adj
+cuando,коли,conjunction
+porque,тому що,conjunction
+variado,різноманітний,adj
+rápido,швидкий,adj
+cómodo,зручний,adj
+seguro,безпечний,adj
+relajante,релаксуючий,adj
+divertido,веселий,adj
+dormir,спати,verb
+preferir,віддавати перевагу,verb
+poder,могти,verb
+barato,дешевий,adj
+vuelo,літати,verb
+el cementerio,цвинтар,noun
+libre,вільний,adj
+el tiempo,час,noun
+el aeropuerto,аеропорт,noun
+Como vas al trabajo?,Як ти їдеш на роботу?,phrase
+el caballo,кінь,noun
+descansar,відпочивати,verb
+tomar el sol,загоряти,phrase
+visitar un museo,відвідати музей,phrase
+hacer una excursion,мати екскурсію,phrase
+ven un espectáculo,переглянути виставу,phrase
+ir a la montaña,ходити в гори,phrase
+el aparcamiento,парковка,noun
+cada día,кожен день,adverb
+la piscina,басейн,noun
+la parque infantil,дитячий майданчик,noun
+el estación de tren,залізничний вокзал,noun
+buscar,шукати,verb
+cada uno,кожен,pronoun
+cómo,як,adverb
+dónde,де/куди,adverb
+cuántos,скільки,adverb
+cuál,який,adverb
+cuáles,які,adverb
+cuándo,коли,adverb
+qúe,що,adverb
+por,на,preposition
+los patinos,ролики,noun
+el patinete,самокат,noun
+el tranvía,трамвай,noun
+aterrizando,приземлятися,verb
+el reparditor,кур'єр,noun
+la carretera,шосе,noun
+llegó,прибувати,verb
+el edificio,будівля,noun
+el paseo,прогулянка,noun
+el lugar,місце,noun
+comprar,купувати,verb
+ver,дивитися,verb
+cantar,співати,verb
+querer,хотіти,verb
+lo mejor,найкраще,phrase
+lo peor,найгірше,phrase
+el ventilador,вентилятор,noun
+la atención,увага,noun
+todo,все,pronoun
+desde,з,preposition
+descyunar,снідати,verb
+Cómo puedo ir a,Як я можу дістатися до,phrase
+Cúanto cuesta la excursion,Скільки коштує екскурсія,phrase
+costar,коштувати,verb
+cruza la calle,перейти вулицю,phrase
+gira a la derecha,повернути праворуч,phrase
+sigue todo recto,йти прямо,phrase
+pagar,платити,verb
+el vuelo,політ,noun
+la estrella,зірка,noun
+el translado,переклад,noun
+el destino,місце призначення,noun
+caminando,йти пішки,verb
+facíl,легко,adj
+De nada,Не за що,phrase
+la familia,сім'я,noun
+menor,менший,adj
+mejor,кращий,adj
+la prima,двоюрідна сестра,noun
+el nieto,внук,noun
+el marido,муж,noun
+pareja,пара,noun
+delgada,худий,adj
+el pelo,волосся,noun
+moreno,темний,adj
+castaño,каштановий,adj
+serio,серйозний,adj
+la barba,борода,noun
+el bigote,вуса,noun
+llevar,носити,verb
+rizado,кудрявий,adj
+rubio,русявий,adj
+timida,сором'язлива,adj
+algodón,бавовна,noun
+lana,вовна,noun
+piel,шкіра,noun
+cuero,шкіра,noun
+seda,шовк,noun
+vaqueros,джинси,noun
+la camiseta,футболка,noun
+el punto,точка,noun
+envio,відправка,noun
+zapatillas,кросівки,noun
+aprender,вивчати,verb
+comer,їсти,verb
+correr,бігати,verb
+abrir,відкривати,verb
+subir,підніматися,verb
+la pelota,м'яч,noun
+jugar,грати,verb
+decir,говорити,verb
+el versiculo,вірш,noun
+el bolso,сумка,noun
+zapatos de tacón,туфлі на підборах,noun
+las zapatillas de deporte,спортивні кросівки,noun
+luego,потім,adverb
+el sombrero,капелюх,noun
+los calcetines,шкарпетки,noun
