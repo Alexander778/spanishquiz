@@ -2403,5 +2403,15 @@ var words = [
     "word": "los calcetines",
     "translation": "шкарпетки",
     "type": "noun"
+  },
+  {
+    "word": "el hoyo",
+    "translation": "яма",
+    "type": "noun"
+  },
+  {
+    "word": "suciou",
+    "translation": "брудний",
+    "type": "adj"
   }
 ];

@@ -35,6 +35,22 @@
             border-radius: 5px;
             cursor: pointer;
         }
+
+        .reset-button {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        .reset-button:hover {
+            background-color: #45a049;
+        }
     </style>
 </head>
 
@@ -44,6 +60,7 @@
         <div class="answers"></div>
         <div class="counter"></div>
     </div>
+    <button id="reset-btn" type="button" class="reset-button">Reset counter</button>
 
     <script src="index.js"></script>
 </body>

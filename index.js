@@ -10,6 +10,11 @@ function startQuiz() {
   const questionElement = document.querySelector(".question");
   const answersElement = document.querySelector(".answers");
   const counterElement = document.querySelector(".counter");
+  const resetButton = document.querySelector("#reset-btn");
+
+  resetButton.addEventListener("click", () => {
+    localStorage.setItem("wordsCounter", 0);
+  });
 
   const questionWord = getRandomWord();
   const isTranslationInTheQuestion = Math.random() < 0.2;
