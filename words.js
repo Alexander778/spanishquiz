@@ -2410,8 +2410,50 @@ var words = [
     "type": "noun"
   },
   {
-    "word": "suciou",
+    "word": "sucio",
     "translation": "брудний",
-    "type": "adj"
+    "type": "adj",
+    "_3": ""
+  },
+  {
+    "word": "la botella",
+    "translation": "пляшка",
+    "type": "noun",
+    "_3": ""
+  },
+  {
+    "word": "la tira",
+    "translation": "полоска",
+    "type": "noun",
+    "_3": ""
+  },
+  {
+    "word": "el basurero",
+    "translation": "смітник",
+    "type": "noun",
+    "_3": ""
+  },
+  {
+    "word": "llorando",
+    "translation": "плакати",
+    "type": "verb",
+    "_3": ""
+  },
+  {
+    "word": "mira",
+    "translation": "дивитися",
+    "type": "verb",
+    "_3": ""
+  },
+  {
+    "word": "otro",
+    "translation": "інший",
+    "type": "adj",
+    "_3": ""
+  },
+  {
+    "word": "esconderse",
+    "translation": "ховатися",
+    "type": "verb"
   }
 ];
