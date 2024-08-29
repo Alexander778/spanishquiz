@@ -2548,5 +2548,110 @@ var words = [
     "word": "Navidad",
     "translation": "Різдво",
     "type": "noun"
+  },
+  {
+    "word": "saber",
+    "translation": "знати",
+    "type": "verb"
+  },
+  {
+    "word": "quien",
+    "translation": "хто",
+    "type": "noun"
+  },
+  {
+    "word": "todavía",
+    "translation": "досі",
+    "type": "adverb"
+  },
+  {
+    "word": "junto",
+    "translation": "разом",
+    "type": "adverb"
+  },
+  {
+    "word": "pasear",
+    "translation": "гуляти",
+    "type": "verb"
+  },
+  {
+    "word": "el campo",
+    "translation": "поле",
+    "type": "noun"
+  },
+  {
+    "word": "pintar",
+    "translation": "фарбувати",
+    "type": "verb"
+  },
+  {
+    "word": "jugar",
+    "translation": "грати",
+    "type": "verb"
+  },
+  {
+    "word": "Qué hora es?",
+    "translation": "Котра година?",
+    "type": "phrase"
+  },
+  {
+    "word": "lavarte los dientes",
+    "translation": "чистити зуби",
+    "type": "verb"
+  },
+  {
+    "word": "salgo",
+    "translation": "виходити",
+    "type": "verb"
+  },
+  {
+    "word": "pongo",
+    "translation": "класти",
+    "type": "verb"
+  },
+  {
+    "word": "acostarse",
+    "translation": "лежати",
+    "type": "verb"
+  },
+  {
+    "word": "temprano",
+    "translation": "рано",
+    "type": "adverb"
+  },
+  {
+    "word": "levantarse",
+    "translation": "підніматися",
+    "type": "verb"
+  },
+  {
+    "word": "más",
+    "translation": "більше",
+    "type": "adverb"
+  },
+  {
+    "word": "empezar",
+    "translation": "починати",
+    "type": "verb"
+  },
+  {
+    "word": "comenzar",
+    "translation": "починати",
+    "type": "verb"
+  },
+  {
+    "word": "pedir",
+    "translation": "просити",
+    "type": "verb"
+  },
+  {
+    "word": "dar",
+    "translation": "давати",
+    "type": "verb"
+  },
+  {
+    "word": "venir",
+    "translation": "приходити",
+    "type": "verb"
   }
 ];
