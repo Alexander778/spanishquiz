@@ -2412,48 +2412,141 @@ var words = [
   {
     "word": "sucio",
     "translation": "брудний",
-    "type": "adj",
-    "_3": ""
+    "type": "adj"
   },
   {
     "word": "la botella",
     "translation": "пляшка",
-    "type": "noun",
-    "_3": ""
+    "type": "noun"
   },
   {
     "word": "la tira",
     "translation": "полоска",
-    "type": "noun",
-    "_3": ""
+    "type": "noun"
   },
   {
     "word": "el basurero",
     "translation": "смітник",
-    "type": "noun",
-    "_3": ""
+    "type": "noun"
   },
   {
     "word": "llorando",
     "translation": "плакати",
-    "type": "verb",
-    "_3": ""
+    "type": "verb"
   },
   {
     "word": "mira",
     "translation": "дивитися",
-    "type": "verb",
-    "_3": ""
+    "type": "verb"
   },
   {
     "word": "otro",
     "translation": "інший",
-    "type": "adj",
-    "_3": ""
+    "type": "adj"
   },
   {
     "word": "esconderse",
     "translation": "ховатися",
     "type": "verb"
+  },
+  {
+    "word": "gordo",
+    "translation": "товстий",
+    "type": "adj"
+  },
+  {
+    "word": "bajo",
+    "translation": "низький",
+    "type": "adj"
+  },
+  {
+    "word": "liso",
+    "translation": "прямий",
+    "type": "adj"
+  },
+  {
+    "word": "falda",
+    "translation": "спідниця",
+    "type": "noun"
+  },
+  {
+    "word": "la camisa",
+    "translation": "сорочка",
+    "type": "noun"
+  },
+  {
+    "word": "calor",
+    "translation": "тепло",
+    "type": "noun"
+  },
+  {
+    "word": "el canape",
+    "translation": "канапе",
+    "type": "noun"
+  },
+  {
+    "word": "gafas",
+    "translation": "окуляри",
+    "type": "noun"
+  },
+  {
+    "word": "vestigo",
+    "translation": "сукня",
+    "type": "noun"
+  },
+  {
+    "word": "sobre",
+    "translation": "про",
+    "type": "preposition"
+  },
+  {
+    "word": "timido",
+    "translation": "сором'язливий",
+    "type": "adj"
+  },
+  {
+    "word": "vago",
+    "translation": "лінивий",
+    "type": "adj"
+  },
+  {
+    "word": "torpe",
+    "translation": "нерозумний",
+    "type": "adj"
+  },
+  {
+    "word": "siempre",
+    "translation": "завжди",
+    "type": "adverb"
+  },
+  {
+    "word": "normalmente",
+    "translation": "зазвичай",
+    "type": "adverb"
+  },
+  {
+    "word": "a menudo",
+    "translation": "часто",
+    "type": "adverb"
+  },
+  {
+    "word": "con frecuencia",
+    "translation": "часто",
+    "type": "adverb"
+  },
+  {
+    "word": "a veces",
+    "translation": "іноді",
+    "type": "adverb"
+  },
+  {
+    "word": "nuncas",
+    "translation": "ніколи",
+    "type": "adverb"
+  },
+  {
+    "word": "Navidad",
+    "translation": "Різдво",
+    "type": "noun"
   }
 ];
