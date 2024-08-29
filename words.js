@@ -2260,7 +2260,7 @@ var words = [
     "type": "noun"
   },
   {
-    "word": "llevar",
+    "word": "lleva",
     "translation": "носити",
     "type": "verb"
   },
