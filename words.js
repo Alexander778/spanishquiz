@@ -2653,5 +2653,115 @@ var words = [
     "word": "venir",
     "translation": "приходити",
     "type": "verb"
+  },
+  {
+    "word": "sobrina",
+    "translation": "племінниця",
+    "type": "noun"
+  },
+  {
+    "word": "la noticia",
+    "translation": "новина",
+    "type": "noun"
+  },
+  {
+    "word": "pensar",
+    "translation": "думати",
+    "type": "verb"
+  },
+  {
+    "word": "entender",
+    "translation": "розуміти",
+    "type": "verb"
+  },
+  {
+    "word": "cerrar",
+    "translation": "закривати",
+    "type": "verb"
+  },
+  {
+    "word": "encontar",
+    "translation": "знаходити",
+    "type": "verb"
+  },
+  {
+    "word": "volver",
+    "translation": "повертатися",
+    "type": "verb"
+  },
+  {
+    "word": "reír",
+    "translation": "сміятися",
+    "type": "verb"
+  },
+  {
+    "word": "medir",
+    "translation": "вимірювати",
+    "type": "verb"
+  },
+  {
+    "word": "impedir",
+    "translation": "запобігати",
+    "type": "verb"
+  },
+  {
+    "word": "salir",
+    "translation": "виходити",
+    "type": "verb"
+  },
+  {
+    "word": "dar",
+    "translation": "давати",
+    "type": "verb"
+  },
+  {
+    "word": "caer",
+    "translation": "падати",
+    "type": "verb"
+  },
+  {
+    "word": "traer",
+    "translation": "приносити",
+    "type": "verb"
+  },
+  {
+    "word": "valer",
+    "translation": "коштувати",
+    "type": "verb"
+  },
+  {
+    "word": "conocer",
+    "translation": "знати",
+    "type": "verb"
+  },
+  {
+    "word": "conducir",
+    "translation": "водити",
+    "type": "verb"
+  },
+  {
+    "word": "agradecer",
+    "translation": "вдячний",
+    "type": "verb"
+  },
+  {
+    "word": "nacer",
+    "translation": "народжуватися",
+    "type": "verb"
+  },
+  {
+    "word": "venir",
+    "translation": "приходити",
+    "type": "verb"
+  },
+  {
+    "word": "decir",
+    "translation": "говорити",
+    "type": "verb"
+  },
+  {
+    "word": "oír",
+    "translation": "слухати",
+    "type": "verb"
   }
 ];
