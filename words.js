@@ -2045,7 +2045,7 @@ var words = [
     "type": "noun"
   },
   {
-    "word": "llegó",
+    "word": "llegar",
     "translation": "прибувати",
     "type": "verb"
   },
@@ -2566,7 +2566,7 @@ var words = [
   },
   {
     "word": "junto",
-    "translation": "разом",
+    "translation": "біля",
     "type": "adverb"
   },
   {
@@ -2763,5 +2763,140 @@ var words = [
     "word": "oír",
     "translation": "слухати",
     "type": "verb"
+  },
+  {
+    "word": "el apellido",
+    "translation": "прізвище",
+    "type": "noun"
+  },
+  {
+    "word": "el horario",
+    "translation": "розклад",
+    "type": "noun"
+  },
+  {
+    "word": "casi",
+    "translation": "майже",
+    "type": "adverb"
+  },
+  {
+    "word": "abiertos",
+    "translation": "відкритий",
+    "type": "adj"
+  },
+  {
+    "word": "desde las",
+    "translation": "з",
+    "type": "preposition"
+  },
+  {
+    "word": "hasta las",
+    "translation": "до",
+    "type": "preposition"
+  },
+  {
+    "word": "reduicido",
+    "translation": "зменшений",
+    "type": "adj"
+  },
+  {
+    "word": "cenar",
+    "translation": "вечеряти",
+    "type": "verb"
+  },
+  {
+    "word": "quedar",
+    "translation": "залишатися",
+    "type": "verb"
+  },
+  {
+    "word": "tomar",
+    "translation": "брати",
+    "type": "verb"
+  },
+  {
+    "word": "despertarse",
+    "translation": "прокидатися",
+    "type": "verb"
+  },
+  {
+    "word": "más tarde",
+    "translation": "пізніше",
+    "type": "adverb"
+  },
+  {
+    "word": "el bocadillo",
+    "translation": "бутерброд",
+    "type": "noun"
+  },
+  {
+    "word": "la instante",
+    "translation": "момент",
+    "type": "noun"
+  },
+  {
+    "word": "divertise",
+    "translation": "розважатися",
+    "type": "verb"
+  },
+  {
+    "word": "paloma",
+    "translation": "голуб",
+    "type": "noun"
+  },
+  {
+    "word": "terminar",
+    "translation": "закінчувати",
+    "type": "verb"
+  },
+  {
+    "word": "durante",
+    "translation": "під час",
+    "type": "preposition"
+  },
+  {
+    "word": "después",
+    "translation": "після",
+    "type": "preposition"
+  },
+  {
+    "word": "el fin de semana",
+    "translation": "вихідні",
+    "type": "noun"
+  },
+  {
+    "word": "sentarse",
+    "translation": "сидіти",
+    "type": "verb"
+  },
+  {
+    "word": "mientras",
+    "translation": "поки",
+    "type": "conjunction"
+  },
+  {
+    "word": "cruzar",
+    "translation": "переходити",
+    "type": "verb"
+  },
+  {
+    "word": "camino",
+    "translation": "дорога",
+    "type": "noun"
+  },
+  {
+    "word": "el guardia",
+    "translation": "охоронець",
+    "type": "noun"
+  },
+  {
+    "word": "la fresa",
+    "translation": "полуниця",
+    "type": "noun"
+  },
+  {
+    "word": "el sabor",
+    "translation": "смак",
+    "type": "noun"
   }
 ];
