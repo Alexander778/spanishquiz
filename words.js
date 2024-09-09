@@ -2898,5 +2898,150 @@ var words = [
     "word": "el sabor",
     "translation": "смак",
     "type": "noun"
+  },
+  {
+    "word": "ancha",
+    "translation": "широка",
+    "type": "adj"
+  },
+  {
+    "word": "el despacho",
+    "translation": "кабінет",
+    "type": "noun"
+  },
+  {
+    "word": "abajo",
+    "translation": "внизу",
+    "type": "adverb"
+  },
+  {
+    "word": "arriba",
+    "translation": "вгору",
+    "type": "adverb"
+  },
+  {
+    "word": "la cortina",
+    "translation": "завіса",
+    "type": "noun"
+  },
+  {
+    "word": "la compra",
+    "translation": "покупка",
+    "type": "noun"
+  },
+  {
+    "word": "carnicería",
+    "translation": "м'ясний магазин",
+    "type": "noun"
+  },
+  {
+    "word": "pescaderia",
+    "translation": "рибний магазин",
+    "type": "noun"
+  },
+  {
+    "word": "el cumpleaños",
+    "translation": "день народження",
+    "type": "noun"
+  },
+  {
+    "word": "molestar",
+    "translation": "турбувати",
+    "type": "verb"
+  },
+  {
+    "word": "Feliz cumpleaños!",
+    "translation": "З днем народження!",
+    "type": "phrase"
+  },
+  {
+    "word": "la fecha",
+    "translation": "дата",
+    "type": "noun"
+  },
+  {
+    "word": "parecer",
+    "translation": "здаватися",
+    "type": "verb"
+  },
+  {
+    "word": "cena",
+    "translation": "вечеря",
+    "type": "noun"
+  },
+  {
+    "word": "esperan",
+    "translation": "чекати",
+    "type": "verb"
+  },
+  {
+    "word": "antes de",
+    "translation": "перед",
+    "type": "preposition"
+  },
+  {
+    "word": "respuesta",
+    "translation": "відповідь",
+    "type": "noun"
+  },
+  {
+    "word": "preocuparse",
+    "translation": "турбуватися",
+    "type": "verb"
+  },
+  {
+    "word": "siquiera",
+    "translation": "навіть",
+    "type": "adverb"
+  },
+  {
+    "word": "apagar",
+    "translation": "вимикати",
+    "type": "verb"
+  },
+  {
+    "word": "así",
+    "translation": "отже",
+    "type": "adverb"
+  },
+  {
+    "word": "delar un mensaje",
+    "translation": "залишити повідомлення",
+    "type": "phrase"
+  },
+  {
+    "word": "lindo",
+    "translation": "гарний",
+    "type": "adj"
+  },
+  {
+    "word": "el timbre",
+    "translation": "дзвінок",
+    "type": "noun"
+  },
+  {
+    "word": "entrega",
+    "translation": "доставка",
+    "type": "noun"
+  },
+  {
+    "word": "la puerta",
+    "translation": "двері",
+    "type": "noun"
+  },
+  {
+    "word": "ansiosa",
+    "translation": "нетерпляча",
+    "type": "adj"
+  },
+  {
+    "word": "Nos vemos!",
+    "translation": "До зустрічі!",
+    "type": "phrase"
+  },
+  {
+    "word": "Que te vaya bien!",
+    "translation": "Всього найкращого!",
+    "type": "phrase"
   }
 ];
