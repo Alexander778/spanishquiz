@@ -3043,5 +3043,175 @@ var words = [
     "word": "Que te vaya bien!",
     "translation": "Всього найкращого!",
     "type": "phrase"
+  },
+  {
+    "word": "la entrevista",
+    "translation": "інтерв'ю",
+    "type": "noun"
+  },
+  {
+    "word": "el muchacho",
+    "translation": "молодий чоловік",
+    "type": "noun"
+  },
+  {
+    "word": "anteriar",
+    "translation": "попередній",
+    "type": "adj"
+  },
+  {
+    "word": "la sala",
+    "translation": "кімната",
+    "type": "noun"
+  },
+  {
+    "word": "pasar",
+    "translation": "проходити",
+    "type": "verb"
+  },
+  {
+    "word": "la oficina",
+    "translation": "офіс",
+    "type": "noun"
+  },
+  {
+    "word": "amplio",
+    "translation": "широкий",
+    "type": "adj"
+  },
+  {
+    "word": "madera",
+    "translation": "дерево",
+    "type": "noun"
+  },
+  {
+    "word": "demasiado",
+    "translation": "занадто",
+    "type": "adverb"
+  },
+  {
+    "word": "el escritorio",
+    "translation": "письмовий стіл",
+    "type": "noun"
+  },
+  {
+    "word": "ubicarse",
+    "translation": "розташовуватися",
+    "type": "verb"
+  },
+  {
+    "word": "extender",
+    "translation": "розширювати",
+    "type": "verb"
+  },
+  {
+    "word": "el apretón",
+    "translation": "стискання",
+    "type": "noun"
+  },
+  {
+    "word": "timidamente",
+    "translation": "сором'язливо",
+    "type": "adverb"
+  },
+  {
+    "word": "costenstar",
+    "translation": "підтверджувати",
+    "type": "verb"
+  },
+  {
+    "word": "lo siento",
+    "translation": "вибачте",
+    "type": "phrase"
+  },
+  {
+    "word": "el curriculum",
+    "translation": "резюме",
+    "type": "noun"
+  },
+  {
+    "word": "revisar",
+    "translation": "перевіряти",
+    "type": "verb"
+  },
+  {
+    "word": "esquiar",
+    "translation": "кататися на лижах",
+    "type": "verb"
+  },
+  {
+    "word": "la verdura",
+    "translation": "овочі",
+    "type": "noun"
+  },
+  {
+    "word": "el recreo",
+    "translation": "перерва",
+    "type": "noun"
+  },
+  {
+    "word": "la cerveza",
+    "translation": "пиво",
+    "type": "noun"
+  },
+  {
+    "word": "la carne",
+    "translation": "м'ясо",
+    "type": "noun"
+  },
+  {
+    "word": "el arroz",
+    "translation": "рис",
+    "type": "noun"
+  },
+  {
+    "word": "la ensalada",
+    "translation": "салат",
+    "type": "noun"
+  },
+  {
+    "word": "la sopa",
+    "translation": "суп",
+    "type": "noun"
+  },
+  {
+    "word": "caliente",
+    "translation": "гарячий",
+    "type": "adj"
+  },
+  {
+    "word": "la leche",
+    "translation": "молоко",
+    "type": "noun"
+  },
+  {
+    "word": "el huevo",
+    "translation": "яйце",
+    "type": "noun"
+  },
+  {
+    "word": "el pan",
+    "translation": "хліб",
+    "type": "noun"
+  },
+  {
+    "word": "a la plancha",
+    "translation": "на грилі",
+    "type": "adverb"
+  },
+  {
+    "word": "marisco",
+    "translation": "морепродукти",
+    "type": "noun"
+  },
+  {
+    "word": "merluza",
+    "translation": "морська риба",
+    "type": "noun"
+  },
+  {
+    "word": "postre",
+    "translation": "десерт",
+    "type": "noun"
   }
 ];
