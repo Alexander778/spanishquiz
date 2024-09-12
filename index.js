@@ -1,6 +1,6 @@
 function updateWordsCounter() {
   let wordsCounter = parseInt(localStorage.getItem("wordsCounter"));
-  if(isNaN(wordsCounter)) {
+  if (isNaN(wordsCounter)) {
     wordsCounter = 0;
   }
   localStorage.setItem("wordsCounter", wordsCounter + 1);
@@ -98,6 +98,23 @@ function startQuiz() {
 
 function getRandomWord() {
   const randomIndex = Math.floor(Math.random() * words.length);
+
+  let alreadyMentionedWords = JSON.parse(localStorage.getItem("alreadyMentionedWords"));
+  if (alreadyMentionedWords === null) {
+    alreadyMentionedWords = [];
+    localStorage.setItem("alreadyMentionedWords", JSON.stringify(alreadyMentionedWords));
+  }
+
+  if (alreadyMentionedWords.includes(randomIndex)) {
+    const showSameWordAgain = Math.random() < 0.10;
+    if (!showSameWordAgain) {
+      return getRandomWord();
+    }
+  }
+
+  alreadyMentionedWords.push(randomIndex);
+  localStorage.setItem("alreadyMentionedWords", JSON.stringify(alreadyMentionedWords));
+
   return words[randomIndex];
 }
 
