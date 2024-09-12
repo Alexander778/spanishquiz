@@ -3208,5 +3208,210 @@ var words = [
     "word": "postre",
     "translation": "десерт",
     "type": "noun"
+  },
+  {
+    "word": "el pescado",
+    "translation": "риба",
+    "type": "noun"
+  },
+  {
+    "word": "el helado",
+    "translation": "морозиво",
+    "type": "noun"
+  },
+  {
+    "word": "las chuletas",
+    "translation": "котлети",
+    "type": "noun"
+  },
+  {
+    "word": "el cordero",
+    "translation": "баранина",
+    "type": "noun"
+  },
+  {
+    "word": "el cerdo",
+    "translation": "свинина",
+    "type": "noun"
+  },
+  {
+    "word": "el pollo",
+    "translation": "курка",
+    "type": "noun"
+  },
+  {
+    "word": "la tarea",
+    "translation": "завдання",
+    "type": "noun"
+  },
+  {
+    "word": "crecer",
+    "translation": "зростати",
+    "type": "verb"
+  },
+  {
+    "word": "solo",
+    "translation": "тільки",
+    "type": "adverb"
+  },
+  {
+    "word": "la falta",
+    "translation": "відсутність",
+    "type": "noun"
+  },
+  {
+    "word": "compartir",
+    "translation": "поділитися",
+    "type": "verb"
+  },
+  {
+    "word": "el pasatiempo",
+    "translation": "хобі",
+    "type": "noun"
+  },
+  {
+    "word": "escalar",
+    "translation": "лазити",
+    "type": "verb"
+  },
+  {
+    "word": "coger",
+    "translation": "брати",
+    "type": "verb"
+  },
+  {
+    "word": "la pared",
+    "translation": "стіна",
+    "type": "noun"
+  },
+  {
+    "word": "asistir",
+    "translation": "відвідувати",
+    "type": "verb"
+  },
+  {
+    "word": "común",
+    "translation": "звичайний",
+    "type": "adj"
+  },
+  {
+    "word": "elegir",
+    "translation": "вибирати",
+    "type": "verb"
+  },
+  {
+    "word": "el maestro",
+    "translation": "вчитель",
+    "type": "noun"
+  },
+  {
+    "word": "conocimiento",
+    "translation": "знання",
+    "type": "noun"
+  },
+  {
+    "word": "dedicarse",
+    "translation": "присвячувати",
+    "type": "verb"
+  },
+  {
+    "word": "nocturno",
+    "translation": "ночний",
+    "type": "adj"
+  },
+  {
+    "word": "existoso",
+    "translation": "успішний",
+    "type": "adj"
+  },
+  {
+    "word": "la gerente",
+    "translation": "менеджер",
+    "type": "noun"
+  },
+  {
+    "word": "la revista",
+    "translation": "журнал",
+    "type": "noun"
+  },
+  {
+    "word": "el trato",
+    "translation": "угода",
+    "type": "noun"
+  },
+  {
+    "word": "A pesar",
+    "translation": "незважаючи на",
+    "type": "preposition"
+  },
+  {
+    "word": "la ajetreada",
+    "translation": "зайнятість",
+    "type": "noun"
+  },
+  {
+    "word": "la vida",
+    "translation": "життя",
+    "type": "noun"
+  },
+  {
+    "word": "disfruta",
+    "translation": "насолоджуватися",
+    "type": "verb"
+  },
+  {
+    "word": "la charla",
+    "translation": "розмова",
+    "type": "noun"
+  },
+  {
+    "word": "alguno",
+    "translation": "якийсь",
+    "type": "pronoun"
+  },
+  {
+    "word": "limpiar",
+    "translation": "прибирати",
+    "type": "verb"
+  },
+  {
+    "word": "el proveedor",
+    "translation": "постачальник",
+    "type": "noun"
+  },
+  {
+    "word": "soltario",
+    "translation": "самотній",
+    "type": "adj"
+  },
+  {
+    "word": "el suerte",
+    "translation": "щастя",
+    "type": "noun"
+  },
+  {
+    "word": "la dueña",
+    "translation": "власниця",
+    "type": "noun"
+  },
+  {
+    "word": "la librería",
+    "translation": "книгарня",
+    "type": "noun"
+  },
+  {
+    "word": "bastante",
+    "translation": "достатньо",
+    "type": "adverb"
+  },
+  {
+    "word": "nada",
+    "translation": "нічого",
+    "type": "adverb"
+  },
+  {
+    "word": "odio",
+    "translation": "ненавиджу",
+    "type": "verb"
   }
 ];
