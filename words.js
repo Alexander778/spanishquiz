@@ -1130,11 +1130,6 @@ var words = [
     "type": "phrase"
   },
   {
-    "word": "Adios!",
-    "translation": "Побачимось!",
-    "type": "phrase"
-  },
-  {
     "word": "cocinar",
     "translation": "готувати",
     "type": "verb"
