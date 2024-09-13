@@ -14,6 +14,7 @@ function startQuiz() {
 
   resetButton.addEventListener("click", () => {
     localStorage.setItem("wordsCounter", 0);
+    localStorage.setItem("alreadyMentionedWords", JSON.stringify([]));
   });
 
   const questionWord = getRandomWord();
