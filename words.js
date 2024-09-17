@@ -3411,7 +3411,147 @@ var words = [
   },
   {
     "word": "odio",
-    "translation": "ненавиджу",
+    "translation": "ненавидіти",
     "type": "verb"
+  },
+  {
+    "word": "curarse",
+    "translation": "лікувати",
+    "type": "verb"
+  },
+  {
+    "word": "el canguro",
+    "translation": "няня",
+    "type": "noun"
+  },
+  {
+    "word": "generamente",
+    "translation": "загалом",
+    "type": "adverb"
+  },
+  {
+    "word": "al principio",
+    "translation": "спочатку",
+    "type": "adverb"
+  },
+  {
+    "word": "el trago",
+    "translation": "коктейль",
+    "type": "noun"
+  },
+  {
+    "word": "lamento molestarte",
+    "translation": "вибачте за турботу",
+    "type": "phrase"
+  },
+  {
+    "word": "la contraseña",
+    "translation": "пароль",
+    "type": "noun"
+  },
+  {
+    "word": "por favor",
+    "translation": "будь ласка",
+    "type": "phrase"
+  },
+  {
+    "word": "por supuesto",
+    "translation": "звичайно",
+    "type": "phrase"
+  },
+  {
+    "word": "De hecho",
+    "translation": "фактично",
+    "type": "phrase"
+  },
+  {
+    "word": "quizá",
+    "translation": "можливо",
+    "type": "adverb"
+  },
+  {
+    "word": "la inspiación",
+    "translation": "натхнення",
+    "type": "noun"
+  },
+  {
+    "word": "la periodista",
+    "translation": "журналістка",
+    "type": "noun"
+  },
+  {
+    "word": "seguramente",
+    "translation": "безперечно",
+    "type": "adverb"
+  },
+  {
+    "word": "montón",
+    "translation": "багато",
+    "type": "adverb"
+  },
+  {
+    "word": "ocurrir",
+    "translation": "відбуватися",
+    "type": "verb"
+  },
+  {
+    "word": "la pintura",
+    "translation": "фарба",
+    "type": "noun"
+  },
+  {
+    "word": "Son embargo",
+    "translation": "однак",
+    "type": "conjunction"
+  },
+  {
+    "word": "enforcarse",
+    "translation": "концентруватися",
+    "type": "verb"
+  },
+  {
+    "word": "la rama",
+    "translation": "гілка",
+    "type": "noun"
+  },
+  {
+    "word": "pronto",
+    "translation": "швидко",
+    "type": "adverb"
+  },
+  {
+    "word": "cuidado",
+    "translation": "обережно",
+    "type": "adverb"
+  },
+  {
+    "word": "el juez",
+    "translation": "суддя",
+    "type": "noun"
+  },
+  {
+    "word": "derecho",
+    "translation": "право",
+    "type": "adj"
+  },
+  {
+    "word": "convertirse",
+    "translation": "перетворюватися",
+    "type": "verb"
+  },
+  {
+    "word": "la cebolla",
+    "translation": "цибуля",
+    "type": "noun"
+  },
+  {
+    "word": "casero",
+    "translation": "домашній",
+    "type": "aje"
+  },
+  {
+    "word": "la piña",
+    "translation": "ананас",
+    "type": "noun"
   }
 ];

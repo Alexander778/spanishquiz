@@ -72,7 +72,7 @@ function startQuiz() {
       const button = document.createElement("button");
       button.textContent = answer;
       button.addEventListener("click", () => {
-        if (answer !== correctAnswer) {
+        if (answer.toLowerCase() !== correctAnswer) {
           alert("Wrong!");
         } else {
           updateWordsCounter();
