@@ -38,7 +38,7 @@ function startQuiz() {
     const okButton = document.createElement("button");
     okButton.textContent = "Ok";
     okButton.addEventListener("click", () => {
-      if (document.getElementById("input-value").value !== correctAnswer) {
+      if (document.getElementById("input-value").value.toLowerCase() !== correctAnswer) {
         alert("Wrong!");
       } else {
         updateWordsCounter();
