@@ -3553,5 +3553,135 @@ var words = [
     "word": "la piña",
     "translation": "ананас",
     "type": "noun"
+  },
+  {
+    "word": "la vesina",
+    "translation": "сусідка",
+    "type": "noun"
+  },
+  {
+    "word": "el recuerdo",
+    "translation": "спогад",
+    "type": "noun"
+  },
+  {
+    "word": "la pablara",
+    "translation": "слово",
+    "type": "noun"
+  },
+  {
+    "word": "la esposa",
+    "translation": "дружина",
+    "type": "noun"
+  },
+  {
+    "word": "cariño",
+    "translation": "миленький",
+    "type": "adj"
+  },
+  {
+    "word": "entusiasmados",
+    "translation": "захоплені",
+    "type": "adj"
+  },
+  {
+    "word": "la esperanza",
+    "translation": "надія",
+    "type": "noun"
+  },
+  {
+    "word": "recordar",
+    "translation": "пам'ятати",
+    "type": "verb"
+  },
+  {
+    "word": "sencilla",
+    "translation": "проста",
+    "type": "adj"
+  },
+  {
+    "word": "la ventanale",
+    "translation": "вікно",
+    "type": "noun"
+  },
+  {
+    "word": "asentir",
+    "translation": "погоджуватися",
+    "type": "verb"
+  },
+  {
+    "word": "decepaionar",
+    "translation": "розчаровувати",
+    "type": "verb"
+  },
+  {
+    "word": "la hormiga",
+    "translation": "мураха",
+    "type": "noun"
+  },
+  {
+    "word": "caminar",
+    "translation": "йти",
+    "type": "verb"
+  },
+  {
+    "word": "la mayoría",
+    "translation": "більшість",
+    "type": "noun"
+  },
+  {
+    "word": "la maleta",
+    "translation": "валіза",
+    "type": "noun"
+  },
+  {
+    "word": "el cargador",
+    "translation": "зарядний пристрій",
+    "type": "noun"
+  },
+  {
+    "word": "el cepillo de dientes",
+    "translation": "зубна щітка",
+    "type": "noun"
+  },
+  {
+    "word": "la manta",
+    "translation": "ковдра",
+    "type": "noun"
+  },
+  {
+    "word": "el vaso",
+    "translation": "склянка",
+    "type": "noun"
+  },
+  {
+    "word": "busco",
+    "translation": "шукаю",
+    "type": "verb"
+  },
+  {
+    "word": "quedarse",
+    "translation": "залишатися",
+    "type": "verb"
+  },
+  {
+    "word": "desconocida",
+    "translation": "незнайома",
+    "type": "adj"
+  },
+  {
+    "word": "la sabana",
+    "translation": "простирадло",
+    "type": "noun"
+  },
+  {
+    "word": "suave",
+    "translation": "м'який",
+    "type": "adj"
+  },
+  {
+    "word": "la almohada",
+    "translation": "подушка",
+    "type": "noun"
   }
 ];
