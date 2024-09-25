@@ -3683,5 +3683,50 @@ var words = [
     "word": "la almohada",
     "translation": "подушка",
     "type": "noun"
+  },
+  {
+    "word": "la gorra",
+    "translation": "кепка",
+    "type": "noun"
+  },
+  {
+    "word": "las botas",
+    "translation": "чоботи",
+    "type": "noun"
+  },
+  {
+    "word": "las chanclas",
+    "translation": "шльопанці",
+    "type": "noun"
+  },
+  {
+    "word": "la linterna",
+    "translation": "ліхтарик",
+    "type": "noun"
+  },
+  {
+    "word": "los prosmaticos",
+    "translation": "бінокль",
+    "type": "noun"
+  },
+  {
+    "word": "la mochila",
+    "translation": "рюкзак",
+    "type": "noun"
+  },
+  {
+    "word": "el guia",
+    "translation": "гід",
+    "type": "noun"
+  },
+  {
+    "word": "el almuerzo",
+    "translation": "обід",
+    "type": "noun"
+  },
+  {
+    "word": "estornudar",
+    "translation": "чхати",
+    "type": "verb"
   }
 ];
