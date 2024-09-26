@@ -3728,5 +3728,80 @@ var words = [
     "word": "estornudar",
     "translation": "чхати",
     "type": "verb"
+  },
+  {
+    "word": "enfrente",
+    "translation": "напроти",
+    "type": "adverb"
+  },
+  {
+    "word": "la certeza",
+    "translation": "впевненість",
+    "type": "noun"
+  },
+  {
+    "word": "el cajon",
+    "translation": "ящик",
+    "type": "noun"
+  },
+  {
+    "word": "último",
+    "translation": "останній",
+    "type": "adj"
+  },
+  {
+    "word": "la caja",
+    "translation": "коробка",
+    "type": "noun"
+  },
+  {
+    "word": "hacia",
+    "translation": "до",
+    "type": "preposition"
+  },
+  {
+    "word": "la beca",
+    "translation": "стипендія",
+    "type": "noun"
+  },
+  {
+    "word": "ahorrar",
+    "translation": "економити",
+    "type": "verb"
+  },
+  {
+    "word": "adelgazar",
+    "translation": "схуднути",
+    "type": "verb"
+  },
+  {
+    "word": "probablemente",
+    "translation": "мабуть",
+    "type": "adverb"
+  },
+  {
+    "word": "purificada",
+    "translation": "очищена",
+    "type": "adj"
+  },
+  {
+    "word": "tirar",
+    "translation": "кидати",
+    "type": "verb"
+  },
+  {
+    "word": "echar",
+    "translation": "виливати",
+    "type": "verb"
+  },
+  {
+    "word": "la prosperidad",
+    "translation": "процвітання",
+    "type": "noun"
+  },
+  {
+    "word": "la costumbre",
+    "translation": "традиція",
+    "type": "noun"
   }
 ];
