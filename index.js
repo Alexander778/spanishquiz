@@ -24,9 +24,9 @@ function startQuiz() {
     ? questionWord.word
     : questionWord.translation;
 
-  questionElement.textContent = `What is the word for "${
+  questionElement.textContent = `${
     isTranslationInTheQuestion ? questionWord.translation : questionWord.word
-  }"?`;
+  }`;
   answersElement.innerHTML = "";
 
   if (manualQuiz) {
