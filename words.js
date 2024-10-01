@@ -3075,7 +3075,7 @@ var words = [
     "type": "adj"
   },
   {
-    "word": "madera",
+    "word": "la madera",
     "translation": "дерево",
     "type": "noun"
   },
