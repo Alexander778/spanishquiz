@@ -3803,5 +3803,240 @@ var words = [
     "word": "la costumbre",
     "translation": "традиція",
     "type": "noun"
+  },
+  {
+    "word": "finalizar",
+    "translation": "завершувати",
+    "type": "verb"
+  },
+  {
+    "word": "el regalo",
+    "translation": "подарунок",
+    "type": "noun"
+  },
+  {
+    "word": "la chaqueta",
+    "translation": "куртка",
+    "type": "noun"
+  },
+  {
+    "word": "la toalla",
+    "translation": "рушник",
+    "type": "noun"
+  },
+  {
+    "word": "anteojos",
+    "translation": "окуляри",
+    "type": "noun"
+  },
+  {
+    "word": "la aguja",
+    "translation": "голка",
+    "type": "noun"
+  },
+  {
+    "word": "el hilo",
+    "translation": "нитка",
+    "type": "noun"
+  },
+  {
+    "word": "el alfiler",
+    "translation": "булавка",
+    "type": "noun"
+  },
+  {
+    "word": "la cabeza",
+    "translation": "голова",
+    "type": "noun"
+  },
+  {
+    "word": "mismo",
+    "translation": "той самий",
+    "type": "adj"
+  },
+  {
+    "word": "el anillo",
+    "translation": "кільце",
+    "type": "noun"
+  },
+  {
+    "word": "agacharse",
+    "translation": "нахилятися",
+    "type": "verb"
+  },
+  {
+    "word": "la nariz",
+    "translation": "нос",
+    "type": "noun"
+  },
+  {
+    "word": "ambos",
+    "translation": "обидва",
+    "type": "pronoun"
+  },
+  {
+    "word": "golpear",
+    "translation": "бити",
+    "type": "verb"
+  },
+  {
+    "word": "todavía",
+    "translation": "досі",
+    "type": "adverb"
+  },
+  {
+    "word": "el intendar",
+    "translation": "спроба",
+    "type": "noun"
+  },
+  {
+    "word": "el matrimonio",
+    "translation": "шлюб",
+    "type": "noun"
+  },
+  {
+    "word": "la boda",
+    "translation": "весілля",
+    "type": "noun"
+  },
+  {
+    "word": "la vestida de novia",
+    "translation": "весільна сукня",
+    "type": "noun"
+  },
+  {
+    "word": "sacar",
+    "translation": "виймати",
+    "type": "verb"
+  },
+  {
+    "word": "casar",
+    "translation": "одружувати",
+    "type": "verb"
+  },
+  {
+    "word": "el perchero",
+    "translation": "вішалка",
+    "type": "noun"
+  },
+  {
+    "word": "el espejo",
+    "translation": "дзеркало",
+    "type": "noun"
+  },
+  {
+    "word": "probar",
+    "translation": "пробувати",
+    "type": "verb"
+  },
+  {
+    "word": "modesto",
+    "translation": "скромний",
+    "type": "adj"
+  },
+  {
+    "word": "la sombra",
+    "translation": "тінь",
+    "type": "noun"
+  },
+  {
+    "word": "la boca",
+    "translation": "рот",
+    "type": "noun"
+  },
+  {
+    "word": "la oreja",
+    "translation": "вухо",
+    "type": "noun"
+  },
+  {
+    "word": "el dolor",
+    "translation": "біль",
+    "type": "noun"
+  },
+  {
+    "word": "la cabeza",
+    "translation": "голова",
+    "type": "noun"
+  },
+  {
+    "word": "la cara",
+    "translation": "обличчя",
+    "type": "noun"
+  },
+  {
+    "word": "el brazo",
+    "translation": "рука",
+    "type": "noun"
+  },
+  {
+    "word": "el pierna",
+    "translation": "нога",
+    "type": "noun"
+  },
+  {
+    "word": "el pie",
+    "translation": "стопа",
+    "type": "noun"
+  },
+  {
+    "word": "el dedo",
+    "translation": "палець",
+    "type": "noun"
+  },
+  {
+    "word": "la espalada",
+    "translation": "спина",
+    "type": "noun"
+  },
+  {
+    "word": "el cuello",
+    "translation": "шия",
+    "type": "noun"
+  },
+  {
+    "word": "el hombro",
+    "translation": "плече",
+    "type": "noun"
+  },
+  {
+    "word": "la mejilla",
+    "translation": "щока",
+    "type": "noun"
+  },
+  {
+    "word": "la ceja",
+    "translation": "брова",
+    "type": "noun"
+  },
+  {
+    "word": "los labios",
+    "translation": "губи",
+    "type": "noun"
+  },
+  {
+    "word": "triste",
+    "translation": "сумний",
+    "type": "adj"
+  },
+  {
+    "word": "contento",
+    "translation": "щасливий",
+    "type": "adj"
+  },
+  {
+    "word": "asustado",
+    "translation": "наляканий",
+    "type": "adj"
+  },
+  {
+    "word": "toser",
+    "translation": "кашляти",
+    "type": "verb"
+  },
+  {
+    "word": "vomitar",
+    "translation": "блювати",
+    "type": "verb"
   }
 ];
