@@ -2485,7 +2485,7 @@ var words = [
     "type": "noun"
   },
   {
-    "word": "vestigo",
+    "word": "el vestigo",
     "translation": "сукня",
     "type": "noun"
   },
