@@ -490,7 +490,7 @@ esconderse,ховатися,verb
 gordo,товстий,adj
 bajo,низький,adj
 liso,прямий,adj
-falda,спідниця,noun
+la falda,спідниця,noun
 la camisa,сорочка,noun
 calor,тепло,noun
 el canape,канапе,noun
@@ -573,7 +573,7 @@ el fin de semana,вихідні,noun
 sentarse,сидіти,verb
 mientras,поки,conjunction
 cruzar,переходити,verb
-camino,дорога,noun
+el camino,дорога,noun
 el guardia,охоронець,noun
 la fresa,полуниця,noun
 el sabor,смак,noun
@@ -591,9 +591,9 @@ Feliz cumpleaños!,З днем народження!,phrase
 la fecha,дата,noun
 parecer,здаватися,verb
 cena,вечеря,noun
-esperan,чекати,verb
+esperar,чекати,verb
 antes de,перед,preposition
-respuesta,відповідь,noun
+la respuesta,відповідь,noun
 preocuparse,турбуватися,verb
 siquiera,навіть,adverb
 apagar,вимикати,verb
@@ -806,3 +806,30 @@ contento,щасливий,adj
 asustado,наляканий,adj
 toser,кашляти,verb
 vomitar,блювати,verb
+el azucar,цукор,noun
+engordar,потовщати,verb
+abusar,зловживати,verb
+el opuesto,протилежність,adj
+el estres,стрес,noun
+mantener,підтримувати,verb
+cortar,різати,verb
+el consejo,порада,noun
+olvidarse,забувати,verb
+el lenguaje,мова,noun
+la liberta,свобода,noun
+el daño,шкода,noun
+suponer,припускати,verb
+la talla,розмір,noun
+el probador,примірочна,noun
+atónita,здивована,adj
+consequir,досягати,verb
+la oracion,речення,noun
+dejar,залишати,verb
+rendirse,здаватися,verb
+tan,так,adverb
+el sonriso,усмішка,noun
+el suspiro,подих,noun
+inmediamente,негайно,adverb
+el perchero,вішалка,noun
+estirarse,розтягуватися,verb
+el presupuesto,бюджет,noun

@@ -2460,7 +2460,7 @@ var words = [
     "type": "adj"
   },
   {
-    "word": "falda",
+    "word": "la falda",
     "translation": "спідниця",
     "type": "noun"
   },
@@ -2875,7 +2875,7 @@ var words = [
     "type": "verb"
   },
   {
-    "word": "camino",
+    "word": "el camino",
     "translation": "дорога",
     "type": "noun"
   },
@@ -2965,7 +2965,7 @@ var words = [
     "type": "noun"
   },
   {
-    "word": "esperan",
+    "word": "esperar",
     "translation": "чекати",
     "type": "verb"
   },
@@ -2975,7 +2975,7 @@ var words = [
     "type": "preposition"
   },
   {
-    "word": "respuesta",
+    "word": "la respuesta",
     "translation": "відповідь",
     "type": "noun"
   },
@@ -4038,5 +4038,140 @@ var words = [
     "word": "vomitar",
     "translation": "блювати",
     "type": "verb"
+  },
+  {
+    "word": "el azucar",
+    "translation": "цукор",
+    "type": "noun"
+  },
+  {
+    "word": "engordar",
+    "translation": "потовщати",
+    "type": "verb"
+  },
+  {
+    "word": "abusar",
+    "translation": "зловживати",
+    "type": "verb"
+  },
+  {
+    "word": "el opuesto",
+    "translation": "протилежність",
+    "type": "adj"
+  },
+  {
+    "word": "el estres",
+    "translation": "стрес",
+    "type": "noun"
+  },
+  {
+    "word": "mantener",
+    "translation": "підтримувати",
+    "type": "verb"
+  },
+  {
+    "word": "cortar",
+    "translation": "різати",
+    "type": "verb"
+  },
+  {
+    "word": "el consejo",
+    "translation": "порада",
+    "type": "noun"
+  },
+  {
+    "word": "olvidarse",
+    "translation": "забувати",
+    "type": "verb"
+  },
+  {
+    "word": "el lenguaje",
+    "translation": "мова",
+    "type": "noun"
+  },
+  {
+    "word": "la liberta",
+    "translation": "свобода",
+    "type": "noun"
+  },
+  {
+    "word": "el daño",
+    "translation": "шкода",
+    "type": "noun"
+  },
+  {
+    "word": "suponer",
+    "translation": "припускати",
+    "type": "verb"
+  },
+  {
+    "word": "la talla",
+    "translation": "розмір",
+    "type": "noun"
+  },
+  {
+    "word": "el probador",
+    "translation": "примірочна",
+    "type": "noun"
+  },
+  {
+    "word": "atónita",
+    "translation": "здивована",
+    "type": "adj"
+  },
+  {
+    "word": "consequir",
+    "translation": "досягати",
+    "type": "verb"
+  },
+  {
+    "word": "la oracion",
+    "translation": "речення",
+    "type": "noun"
+  },
+  {
+    "word": "dejar",
+    "translation": "залишати",
+    "type": "verb"
+  },
+  {
+    "word": "rendirse",
+    "translation": "здаватися",
+    "type": "verb"
+  },
+  {
+    "word": "tan",
+    "translation": "так",
+    "type": "adverb"
+  },
+  {
+    "word": "el sonriso",
+    "translation": "усмішка",
+    "type": "noun"
+  },
+  {
+    "word": "el suspiro",
+    "translation": "подих",
+    "type": "noun"
+  },
+  {
+    "word": "inmediamente",
+    "translation": "негайно",
+    "type": "adverb"
+  },
+  {
+    "word": "el perchero",
+    "translation": "вішалка",
+    "type": "noun"
+  },
+  {
+    "word": "estirarse",
+    "translation": "розтягуватися",
+    "type": "verb"
+  },
+  {
+    "word": "el presupuesto",
+    "translation": "бюджет",
+    "type": "noun"
   }
 ];
